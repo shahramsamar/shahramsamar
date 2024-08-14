@@ -1,6 +1,6 @@
 
 
-# Hi,I'm Shahram Samar!👋
+# Hi, I'm Shahram Samar!👋
 
 ### Back End Developer
 I'm a back end developer with extensive experience in software development, particularly in Python and Django. My passion for creating efficient, scalable applications drives my work and continuous learning.
@@ -28,7 +28,6 @@ I am also  have contributed significantly to various projects, delivering high-p
 - 📫 Reach me at [shahramsamar2010@gmail.com](mailto:shahramsamar2010@gmail.com).
 
 - 💬 Ask me about. **Python, Django, Git, Docker**.
-
 ---
 ## 🔗 **Connect with Me**
 - [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/shahram-samar)
