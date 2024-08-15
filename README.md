@@ -15,7 +15,7 @@ I am also  have contributed significantly to various projects, delivering high-p
 
 - 👩‍💻 I’m currently working on **scalable web applications** using Django.
 
-- 🧠 I’m currently learning **FastAPI**.
+- 🧠 I’m currently learning **FastAPI** anb **Django Rest FramWork**.
 <!-- - 🧠 I’m currently learning **django rest api** and **Kubernetes**. -->
 
 - 👯 I’m looking to collaborate on **back end development** projects, particularly in Python and Django.
