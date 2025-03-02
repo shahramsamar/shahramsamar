@@ -12,7 +12,6 @@ Welcome to my GitHub profile! I'm a **Python Backend Developer** with 3+ years o
 - CI/CD pipeline implementation
 
 🛠 **Current Focus**:
-- Building microservices architecture systems
 - Implementing Azure cloud solutions (AZ-900 certified)
 - Enhancing Agile development processes
 - Contributing to open-source Python projects
