@@ -1,6 +1,5 @@
 # 👨💻 About Me
 
-[![Visitors](https://visitcount.itsvg.in/api?id=shahramsamar&label=Profile%20Views&color=0&icon=2&pretty=true)](https://visitcount.itsvg.in)
 [![LinkedIn](https://img.shields.io/badge/-Connect-blue?style=flat&logo=linkedin)](https://linkedin.com/in/shahramsamar)
 [![Email](https://img.shields.io/badge/-Contact%20Me-red?style=flat&logo=gmail)](mailto:shahramsamar2010@gmail.com)
 
@@ -73,7 +72,6 @@ Welcome to my GitHub profile! I'm a **Python Backend Developer** with 3+ years o
 - 🔗 [Professional Portfolio](https://shahramsamar.ir)
 - 📧 [Email Me](mailto:shahramsamar2010@gmail.com)
 - 💼 [LinkedIn Profile](https://linkedin.com/in/shahramsamar)
-- 📄 [Download Resume](https://shahramsamar.ir/resume.pdf)
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=shahramsamar&label=Profile+Views&color=blueviolet&style=flat" alt="Profile views" />
