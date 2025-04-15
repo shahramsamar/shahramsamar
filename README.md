@@ -43,28 +43,10 @@ Welcome to my GitHub profile! I'm a **Python Backend Developer** with 3+ years o
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-0089D6?style=flat&logo=microsoft-azure&logoColor=white)
-
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white)
 ---
 
-## 📈 GitHub Analytics
 
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=shahramsamar&theme=vue-dark&border_radius=5)](https://git.io/streak-stats)
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shahramsamar&layout=compact&theme=vision-friendly-dark)](https://github.com/shahramsamar)
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=shahramsamar&theme=github-dark)](https://github.com/shahramsamar)
-
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=shahramsamar&theme=onedark&row=1&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
-
----
 
 ## 📫 Let's Connect
 
@@ -72,6 +54,18 @@ Welcome to my GitHub profile! I'm a **Python Backend Developer** with 3+ years o
 - 📧 [Email Me](mailto:shahramsamar2010@gmail.com)
 - 💼 [LinkedIn Profile](https://linkedin.com/in/shahramsamar)
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=shahramsamar&label=Profile+Views&color=blueviolet&style=flat" alt="Profile views" />
-</p>
+
+---
+[![](https://visitcount.itsvg.in/api?id=shahramsamar&icon=2&color=1)](https://visitcount.itsvg.in)
+
+
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=shahramsamar&theme=default_repocard&hide_border=false&include_all_commits=false&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=shahramsamar&theme=default_repocard&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=shahramsamar&theme=default_repocard&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=shahramsamar&limit=5&theme=default_repocard&combine_all_yearly_contributions=true)
+
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
