@@ -2,10 +2,10 @@
 
 # Shahram Samar | Python Backend Developer
 
-[![LinkedIn](https://img.shields.io/badge/-Connect-blue?style=flat&logo=linkedin)](https://linkedin.com/in/shahramsamar)
+[![LinkedIn](https://img.shields.io/badge/-Connect on linkedin-blue?style=flat&logo=linkedin)](https://linkedin.com/in/shahramsamar)
 [![Email](https://img.shields.io/badge/-Contact%20Me-red?style=flat&logo=gmail)](mailto:shahramsamar.dev@gmail.com)
 [![Portfolio](https://img.shields.io/badge/-Portfolio-181717?style=flat&logo=github)](https://shahramsamar.ir)
-[![Visits My site](https://img.shields.io/badge/-Portfolio-181717?style=flat&logo=github)](https://backend-solutions.ir)
+[![Visits My site](https://img.shields.io/badge/-Mysite-181717?style=flat&logo=github)](https://backend-solutions.ir)
 
 ## 🚀 Professional Summary
 
@@ -22,28 +22,29 @@ Specializing in:
 - Asynchronous processing (Celery/Redis)
 - Legacy system migrations
 - Cloud integrations (Azure/AWS)
+```
 
 ## 🔧 Core Tech Stack
-🐍 Languages & Frameworks
-https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white
-https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white
-https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white
-https://img.shields.io/badge/Django_REST-ff1709?style=flat&logo=django&logoColor=white
+### 🐍 Languages & Frameworks
+- https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white
+- https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white
+- https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white
+- https://img.shields.io/badge/Django_REST-ff1709?style=flat&logo=django&logoColor=white
 
-## 🗃️ Databases
-https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white
-https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white
-https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white
+### 🗃️ Databases
+- https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white
+- https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white
+- https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white
 
-## 🛠️ DevOps & Tools
-https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white
-https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=github-actions&logoColor=white
-https://img.shields.io/badge/Azure-0089D6?style=flat&logo=microsoft-azure&logoColor=white
-https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white
+### 🛠️ DevOps & Tools
+- https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white
+- https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=github-actions&logoColor=white
+- https://img.shields.io/badge/Azure-0089D6?style=flat&logo=microsoft-azure&logoColor=white
+- https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white
 
 ## 🌐 Languages
-https://img.shields.io/badge/English-Limited_Working-yellow
-https://img.shields.io/badge/German-Limited_Working-yellow
+- https://img.shields.io/badge/English-Limited_Working-yellow
+- https://img.shields.io/badge/German-Limited_Working-yellow
 
 ## 💼 Professional Experience
 ### 🚀 Freelance Python Developer
@@ -85,9 +86,9 @@ BSc Software Engineering
 Islamic Azad University (2010-2013)
 
 ## 🌟 GitHub Stats
-https://github-readme-stats.vercel.app/api?username=shahramsamar&show_icons=true&theme=radical&hide_border=true
+- https://github-readme-stats.vercel.app/api?username=shahramsamar&show_icons=true&theme=radical&hide_border=true
 
-https://github-readme-stats.vercel.app/api/top-langs/?username=shahramsamar&layout=compact&theme=radical&hide_border=true
+- https://github-readme-stats.vercel.app/api/top-langs/?username=shahramsamar&layout=compact&theme=radical&hide_border=true
 
 ## 📬 Contact Me
 💼 LinkedIn
