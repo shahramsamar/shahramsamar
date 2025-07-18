@@ -5,7 +5,6 @@
 [![Email](https://img.shields.io/badge/-Contact%20Me-red?style=flat&logo=gmail)](mailto:shahramsamar.dev@gmail.com)
 [![Portfolio](https://img.shields.io/badge/-Portfolio-181717?style=flat&logo=github)](https://shahramsamar.ir)
 [![Website](https://img.shields.io/badge/-My%20Site-181717?style=flat&logo=github)](https://backend-solutions.ir)
-[![Visits](https://visitcount.itsvg.in/api?id=shahramsamar&label=Profile%20Views&color=1&icon=5&pretty=true)](https://visitcount.itsvg.in)
 
 ## 🚀 Professional Summary
 
@@ -92,15 +91,13 @@ Specializing in:
 
 ---
 
-text
-Currently seeking backend roles in Germany (remote/onsite/hybrid).
-Open to Blue Card sponsorship opportunities in:
-» Berlin » Munich » Hamburg » Düsseldorf » Frankfurt
+## Currently seeking backend roles in Germany (remote/onsite/hybrid).
+### Open to Blue Card sponsorship opportunities in:
+**Berlin** - **Munich** - **Hamburg** - **Düsseldorf** - **Frankfurt**.
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-text
 
-Key features of this updated version:
+## Key features of this updated version:
 1. **Consolidated all your professional information** from both your resume and GitHub profile
 2. **Modern badge-based layout** that's visually appealing
 3. **Complete work history** with key achievements
@@ -110,9 +107,9 @@ Key features of this updated version:
 7. **Multi-platform contact options**
 8. **German language section** for local opportunities
 
-The design is:
+## The design is:
 - Mobile-friendly
 - Easy to scan for recruiters
 - Visually organized with clear sections
 - Professionally formatted with consistent styling
-```
+
