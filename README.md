@@ -2,7 +2,7 @@
 
 # Shahram Samar | Python Backend Developer
 
-[![LinkedIn](https://img.shields.io/badge/-Connect on linkedin-blue?style=flat&logo=linkedin)](https://linkedin.com/in/shahramsamar)
+[![LinkedIn on linkedin](https://img.shields.io/badge/-Connect on linkedin-blue?style=flat&logo=linkedin)](https://linkedin.com/in/shahramsamar)
 [![Email](https://img.shields.io/badge/-Contact%20Me-red?style=flat&logo=gmail)](mailto:shahramsamar.dev@gmail.com)
 [![Portfolio](https://img.shields.io/badge/-Portfolio-181717?style=flat&logo=github)](https://shahramsamar.ir)
 [![Visits My site](https://img.shields.io/badge/-Mysite-181717?style=flat&logo=github)](https://backend-solutions.ir)
@@ -48,64 +48,55 @@ Specializing in:
 
 ## 💼 Professional Experience
 ### 🚀 Freelance Python Developer
-Self Employed | Mar 2025 - Present | Shiraz, Iran
+##### Self Employed | Mar 2025 - Present | Shiraz, Iran
 
-Developed scalable RESTful APIs using FastAPI with async task processing
+- Developed scalable RESTful APIs using FastAPI with async task processing
 
-Integrated Celery and Redis for background job handling
+- Integrated Celery and Redis for background job handling
 
-Automated Docker-based CI/CD workflows using GitHub Actions
+- Automated Docker-based CI/CD workflows using GitHub Actions
 
-Optimized API response times by 25%
+- Optimized API response times by 25%
 
 ### 💻 Back End Developer
-SISCO | Feb 2022 - Mar 2025 | Shiraz, Iran
+##### SISCO | Feb 2022 - Mar 2025 | Shiraz, Iran
 
-Improved backend performance by 30% through PostgreSQL optimization
+- Improved backend performance by 30% through PostgreSQL optimization
 
-Migrated legacy codebase to Python (8% productivity boost)
+- Migrated legacy codebase to Python (8% productivity boost)
 
-Developed secure APIs with Django REST Framework
+- Developed secure APIs with Django REST Framework
 
-Implemented Docker containers and CI/CD pipelines
+- Implemented Docker containers and CI/CD pipelines
 
 ### 📈 Stock Exchange Specialist
-DanaSarmayeh | Mar 2019 - Jan 2022 | Shiraz, Iran
+#### DanaSarmayeh | Mar 2019 - Jan 2022 | Shiraz, Iran
 
-Developed Python financial tools (15% accuracy improvement)
+- Developed Python financial tools (15% accuracy improvement)
 
-Reduced data processing time from 2h → 10min
+- Reduced data processing time from 2h → 10min
 
-Automated stock exchange reporting pipelines
+- Automated stock exchange reporting pipelines
 
 ### 🎓 Education
-MSc Business Management
-Islamic Azad University (2016-2019)
+#### MSc Business Management
+- Islamic Azad University (2016-2019)
 
-BSc Software Engineering
-Islamic Azad University (2010-2013)
+#### BSc Software Engineering
+- Islamic Azad University (2010-2013)
 
 ## 🌟 GitHub Stats
 - https://github-readme-stats.vercel.app/api?username=shahramsamar&show_icons=true&theme=radical&hide_border=true
 
 - https://github-readme-stats.vercel.app/api/top-langs/?username=shahramsamar&layout=compact&theme=radical&hide_border=true
 
-## 📬 Contact Me
-💼 LinkedIn
-
-## 📧 Email
-
-## 📱 Telegram
-
-## 🌐 Portfolio
-## 🌐 Mysite
-
-text
+```text
 Currently seeking backend roles in Germany (remote/onsite/hybrid).
 Open to Blue Card sponsorship opportunities in:
 » Berlin » Munich » Hamburg » Düsseldorf » Frankfurt
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-text
+```
+```text
 
 Key features of this updated version:
 1. **Consolidated all your professional information** from both your resume and GitHub profile
@@ -122,3 +113,4 @@ The design is:
 - Easy to scan for recruiters
 - Visually organized with clear sections
 - Professionally formatted with consistent styling
+```
