@@ -1,7 +1,6 @@
+![Designer (3)](https://github.com/user-attachments/assets/7a92bb91-0dcb-4263-a8aa-cf3f77f84d49)
 
-![Designer (2)](https://github.com/user-attachments/assets/05d2eef9-241c-4837-83f8-abe1b4b732be)
 # About Me
-
 [![LinkedIn](https://img.shields.io/badge/-Connect-blue?style=flat&logo=linkedin)](https://linkedin.com/in/shahramsamar)
 [![Email](https://img.shields.io/badge/-Contact%20Me-red?style=flat&logo=gmail)](mailto:shahramsamar2010@gmail.com)
 
