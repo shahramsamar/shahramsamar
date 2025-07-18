@@ -107,9 +107,4 @@ Specializing in:
 7. **Multi-platform contact options**
 8. **German language section** for local opportunities
 
-## The design is:
-- Mobile-friendly
-- Easy to scan for recruiters
-- Visually organized with clear sections
-- Professionally formatted with consistent styling
 
