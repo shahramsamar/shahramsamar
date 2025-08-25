@@ -13,7 +13,7 @@
 
 
 ```text
-I'm a Python backend developer with 3+ years of experience building scalable web applications. 
+I'm a Python backend developer with 4+ years of experience building scalable web applications. 
 My core stack includes Django, FastAPI, PostgreSQL, Docker, and CI/CD with GitHub Actions.
 
 Specializing in:
