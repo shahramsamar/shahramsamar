@@ -8,8 +8,7 @@
 
 ## 🚀 Professional Summary
 
-**Python Backend Developer** | Django, FastAPI, PostgreSQL | Docker, CI/CD | Blue Card-Ready  
-📍 Shiraz, Iran | 🌍 Open to global relocation
+**Python Backend Developer** | Django, FastAPI, PostgreSQL,MongoDb,MySql | Docker, CI/CD,Github Action | Blue Card-Ready 🌍 Open to global relocation, remote, Hib
 
 
 ```text
