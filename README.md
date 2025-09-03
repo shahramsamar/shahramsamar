@@ -8,7 +8,7 @@
 
 ## 🚀 Professional Summary
 
-**Python Backend Developer** | Django, FastAPI, PostgreSQL,MongoDb,MySql | Docker, CI/CD,Github Action | Blue Card-Ready 🌍 Open to global relocation, remote, Hib
+**Python Backend Developer** | Django, FastAPI, PostgreSQL,MongoDb,MySql | Docker, CI/CD,Github Action | Blue Card-Ready 🌍 Open to global relocation, remote, Hybrid
 
 
 ```text
