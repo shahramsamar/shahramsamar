@@ -48,33 +48,6 @@ Specializing in:
 ![English](https://img.shields.io/badge/English-Limited_Working-yellow)
 ![German](https://img.shields.io/badge/German-Limited_Working-yellow)
 
-## 💼 Professional Experience
-
-### 🚀 Freelance Python Developer
-**Self Employed** | Mar 2025 - Present 
-- Developed scalable RESTful APIs using FastAPI with async task processing
-- Integrated Celery and Redis for background job handling
-- Automated Docker-based CI/CD workflows using GitHub Actions
-- Optimized API response times by 25%
-
-### 💻 Back End Developer
-**SISCO** | Feb 2022 - Mar 2025
-- Improved backend performance by 30% through PostgreSQL optimization
-- Migrated legacy codebase to Python (8% productivity boost)
-- Developed secure APIs with Django REST Framework
-- Implemented Docker containers and CI/CD pipelines
-
-### 📈 Stock Exchange Specialist
-**DanaSarmayeh** | Mar 2019 - Jan 2022  
-- Developed Python financial tools (15% accuracy improvement)
-- Reduced data processing time from 2h → 10min
-- Automated stock exchange reporting pipelines
-
-## 🎓 Education
-- **MSc Business Management**  
-  Islamic Azad University (2016-2019)  
-- **BSc Software Engineering**  
-  Islamic Azad University (2010-2013)  
 
 ## 🌟 GitHub Stats
 
