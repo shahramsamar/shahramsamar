@@ -64,9 +64,8 @@ Specializing in:
 
 ---
 
-## Currently seeking backend roles in Germany (remote/onsite/hybrid).
-### Open to Blue Card sponsorship opportunities in:
-**Berlin** - **Munich** - **Hamburg** - **Düsseldorf** - **Frankfurt**.
+## Currently seeking backend roles (remote/onsite/hybrid).
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 
@@ -78,6 +77,6 @@ Specializing in:
 5. **Job-seeking status** clearly highlighted
 6. **Interactive elements** (GitHub stats, visitor counter)
 7. **Multi-platform contact options**
-8. **German language section** for local opportunities
+
 
 
