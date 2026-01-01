@@ -1,5 +1,5 @@
 ![Designer (3)](https://github.com/user-attachments/assets/7a92bb91-0dcb-4263-a8aa-cf3f77f84d49)
-# Shahram Samar | Python Backend Developer
+# Shahram Samar | Backend Developer
 
 [![LinkedIn](https://img.shields.io/badge/-Connect-blue?style=flat&logo=linkedin)](https://linkedin.com/in/shahramsamar)
 [![Email](https://img.shields.io/badge/-Contact%20Me-red?style=flat&logo=gmail)](mailto:shahramsamar.dev@gmail.com)
