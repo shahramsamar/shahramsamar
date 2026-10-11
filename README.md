@@ -12,15 +12,13 @@
 
 
 ```text
-I'm a Python backend developer with 4+ years of experience building scalable web applications. 
-My core stack includes Django, FastAPI, PostgreSQL, Docker, and CI/CD with GitHub Actions.
+I am a Python Backend Developer with hands-on experience building scalable, secure, and maintainable web applications using Django, FastAPI, and PostgreSQL.
 
-Specializing in:
-- Designing secure RESTful APIs
-- Backend performance optimization
-- Asynchronous processing (Celery/Redis)
-- Legacy system migrations
-- Cloud integrations (Azure/AWS)
+My expertise includes RESTful API development, database optimization, asynchronous task processing with Celery and Redis, Docker-based containerization, and CI/CD automation using GitHub Actions. I focus on improving backend performance, writing clean and maintainable code, and building reliable services that support business needs.
+
+I also have experience with cloud deployment and backend monitoring, including Microsoft Azure and AWS.
+
+I am currently seeking Python Backend Developer opportunities in Austria and Germany, where I can contribute to building robust backend systems, expand my technical expertise, and grow as a software engineer. I am open to relocation.
 ```
 
 
