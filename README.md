@@ -18,7 +18,7 @@ My expertise includes RESTful API development, database optimization, asynchrono
 
 I also have experience with cloud deployment and backend monitoring, including Microsoft Azure and AWS.
 
-I am currently seeking Python Backend Developer opportunities in Austria and Germany, where I can contribute to building robust backend systems, expand my technical expertise, and grow as a software engineer. I am open to relocation.
+I am open to relocation.
 ```
 
 
